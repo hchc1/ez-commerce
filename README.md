@@ -1,4 +1,9 @@
-# ECommerce
+# eZ-Commerce
+Desafio de projeto desenvolvido para o curso de Angular com a instrutora Nathalia Corrêa na DIO. Este curso é parte do bootcamp Santander Fullstack Developer.
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
